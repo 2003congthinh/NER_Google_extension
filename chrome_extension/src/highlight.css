@@ -1,0 +1,144 @@
+.highlight-person {
+    background-color: yellow; /* Adjust the color accordingly */
+    height: 15px;
+    width: 15px;
+    border: solid 1px;
+}
+  
+.highlight-loc {
+    background-color: red; /* Adjust the color accordingly */
+    height: 15px;
+    width: 15px;
+    border: solid 1px;
+}
+
+.highlight-work_of_art {
+    background-color: brown; /* Adjust the color accordingly */
+    height: 15px;
+    width: 15px;
+    border: solid 1px;
+}
+
+.highlight-norp {
+    background-color: green; /* Adjust the color accordingly */
+    height: 15px;
+    width: 15px;
+    border: solid 1px;
+}
+
+.highlight-fac {
+    background-color: lightblue; /* Adjust the color accordingly */
+    height: 15px;
+    width: 15px;
+    border: solid 1px;
+}
+
+.highlight-org {
+    background-color: purple; /* Adjust the color accordingly */
+    height: 15px;
+    width: 15px;
+    border: solid 1px;
+}
+
+.highlight-gpe {
+    background-color: khaki; /* Adjust the color accordingly */
+    height: 15px;
+    width: 15px;
+    border: solid 1px;
+}
+
+.highlight-product {
+    background-color: pink; /* Adjust the color accordingly */
+    height: 15px;
+    width: 15px;
+    border: solid 1px;
+}
+
+.highlight-event {
+    background-color: grey; /* Adjust the color accordingly */
+    height: 15px;
+    width: 15px;
+    border: solid 1px;
+}
+
+.highlight-law {
+    background-color: silver; /* Adjust the color accordingly */
+    height: 15px;
+    width: 15px;
+    border: solid 1px;
+}
+
+.highlight-language {
+    background-color: gold; /* Adjust the color accordingly */
+    height: 15px;
+    width: 15px;
+    border: solid 1px;
+}
+
+.highlight-date {
+    background-color: navy; /* Adjust the color accordingly */
+    height: 15px;
+    width: 15px;
+    border: solid 1px;
+}
+
+.highlight-time {
+    background-color: cyan; /* Adjust the color accordingly */
+    height: 15px;
+    width: 15px;
+    border: solid 1px;
+}
+
+.highlight-percent {
+    background-color: skyblue; /* Adjust the color accordingly */
+    height: 15px;
+    width: 15px;
+    border: solid 1px;
+}
+
+.highlight-money {
+    background-color: crimson; /* Adjust the color accordingly */
+    height: 15px;
+    width: 15px;
+    border: solid 1px;
+}
+
+.highlight-quantity {
+    background-color: steelblue; /* Adjust the color accordingly */
+    height: 15px;
+    width: 15px;
+    border: solid 1px;
+}
+
+.highlight-ordinal {
+    background-color: lightcoral; /* Adjust the color accordingly */
+    height: 15px;
+    width: 15px;
+    border: solid 1px;
+}
+
+.highlight-cardinal {
+    background-color: fuchsia; /* Adjust the color accordingly */
+    height: 15px;
+    width: 15px;
+    border: solid 1px;
+}
+
+.box {
+    width: 200px;
+    height: 20px;
+    display: flex; 
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.container {
+    display: flex; 
+    align-items: center;
+    margin-bottom: 5px;
+}
+
+.tag {
+    margin-right: 5px;
+}
