@@ -3,10 +3,10 @@ start a react app: npx start-react-app chrome_extension
 
 replace the manifest file in public to this
 {
+
     "manifest_version": 3,
     "name": "My Extension",
     "version": "1.0.1",
-
     "action": {
         "default_popup": "index.html",
         "default_title": "My Extension"
