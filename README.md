@@ -2,20 +2,20 @@
 start a react app: npx start-react-app chrome_extension
 
 replace the manifest file in public to this
-{
 
-    "manifest_version": 3,
-    "name": "My Extension",
-    "version": "1.0.1",
-    "action": {
-        "default_popup": "index.html",
-        "default_title": "My Extension"
-    },
-    "default_locale": "en", !!! EXCLUDE THIS LINE BECAUSE IT WILL ASK FOR LOCALIZATION FOLDER IN THE ROOT DIR
-    "description": "A plain text description",
-    "author": "developer@example.com",
-    "permissions": ["scripting"]
-}
+    {   
+        "manifest_version": 3,
+        "name": "My Extension",
+        "version": "1.0.1",
+        "action": {
+            "default_popup": "index.html",
+            "default_title": "My Extension"
+        },
+        "default_locale": "en", !!! EXCLUDE THIS LINE BECAUSE IT WILL ASK FOR LOCALIZATION FOLDER IN THE ROOT DIR
+        "description": "A plain text description",
+        "author": "developer@example.com",
+        "permissions": ["scripting"]
+    }
 
 then: npm run build
 
